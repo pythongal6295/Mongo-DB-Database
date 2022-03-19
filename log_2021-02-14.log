@@ -1,0 +1,383 @@
+2021-02-14 09:49:12.249 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 09:49:12.250 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 09:49:12.250 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 09:53:36.777 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 09:53:36.777 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 09:53:36.777 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 09:53:52.704 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: george99		
+2021-02-14 09:53:52.706 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: keri42
+2021-02-14 09:53:52.708 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: tutu46
+2021-02-14 09:53:52.710 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: spooky88
+2021-02-14 09:53:52.712 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: evmiles97
+2021-02-14 09:53:52.714 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: dave03
+2021-02-14 09:53:52.716 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: gary34
+2021-02-14 09:53:52.717 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 09:54:38.108 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 10:09:09.576 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 10:09:09.576 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 10:09:09.576 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 10:09:33.718 | INFO     | users:search_user:92 - tutu46 was found.
+2021-02-14 10:10:20.845 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 10:10:49.028 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 10:10:49.028 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 10:10:49.029 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 10:12:32.082 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 10:12:32.082 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 10:12:32.082 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 10:14:22.215 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 10:14:22.215 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 10:14:22.215 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 10:15:40.218 | INFO     | users:modify_user:49 - tutu46 was modified with hope@gmail.com, Hope, Shelley
+2021-02-14 10:30:29.250 | INFO     | users:search_user:92 - tutu46 was found.
+2021-02-14 10:30:45.658 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 10:38:33.513 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 10:38:33.513 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 10:38:33.513 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 10:38:52.830 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 10:38:52.831 | INFO     | users:search_user:93 - users.py
+2021-02-14 10:38:52.832 | INFO     | main:search_user:177 - main.py
+2021-02-14 11:18:20.422 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:18:20.423 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:18:20.423 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:18:36.834 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 11:18:36.835 | INFO     | users:search_user:93 - users.py: None
+2021-02-14 11:18:36.835 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 11:19:03.558 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:19:03.558 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:19:03.558 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:19:19.160 | INFO     | users:search_user:92 - tutu46 was found.
+2021-02-14 11:19:19.161 | INFO     | users:search_user:93 - users.py: {'_id': 'tutu46', 'email': 'hope@gmail.com', 'user_name': 'Hope', 'user_last_name': 'Shelley'}
+2021-02-14 11:19:19.162 | INFO     | main:search_user:177 - main.py: {'_id': 'tutu46', 'email': 'hope@gmail.com', 'user_name': 'Hope', 'user_last_name': 'Shelley'}
+2021-02-14 11:19:19.163 | INFO     | __main__:search_user:71 - menu.py: tutu46
+2021-02-14 11:20:43.429 | INFO     | users:search_user:92 - keri42 was found.
+2021-02-14 11:20:43.429 | INFO     | users:search_user:93 - users.py: {'_id': 'keri42', 'email': 'ks@yahoo.com', 'user_name': 'Keri', 'user_last_name': 'Smith'}
+2021-02-14 11:20:43.429 | INFO     | main:search_user:177 - main.py: {'_id': 'keri42', 'email': 'ks@yahoo.com', 'user_name': 'Keri', 'user_last_name': 'Smith'}
+2021-02-14 11:20:43.429 | INFO     | __main__:search_user:71 - menu.py: keri42
+2021-02-14 11:20:55.345 | INFO     | users:search_user:92 - spooky88 was found.
+2021-02-14 11:20:55.345 | INFO     | users:search_user:93 - users.py: {'_id': 'spooky88', 'email': 'boo@scary.com', 'user_name': 'Spoop', 'user_last_name': 'Boo'}
+2021-02-14 11:20:55.345 | INFO     | main:search_user:177 - main.py: {'_id': 'spooky88', 'email': 'boo@scary.com', 'user_name': 'Spoop', 'user_last_name': 'Boo'}
+2021-02-14 11:20:55.346 | INFO     | __main__:search_user:71 - menu.py: spooky88
+2021-02-14 11:21:15.697 | INFO     | users:search_user:92 - evmiles97 was found.
+2021-02-14 11:21:15.698 | INFO     | users:search_user:93 - users.py: {'_id': 'evmiles97', 'email': 'em@icloud.com', 'user_name': 'Eva', 'user_last_name': 'Miles'}
+2021-02-14 11:21:15.698 | INFO     | main:search_user:177 - main.py: {'_id': 'evmiles97', 'email': 'em@icloud.com', 'user_name': 'Eva', 'user_last_name': 'Miles'}
+2021-02-14 11:21:15.698 | INFO     | __main__:search_user:71 - menu.py: evmiles97
+2021-02-14 11:21:28.547 | INFO     | users:search_user:92 - dave03 was found.
+2021-02-14 11:21:28.547 | INFO     | users:search_user:93 - users.py: {'_id': 'dave03', 'email': 'sharp@aol.com', 'user_name': 'Dave', 'user_last_name': 'Sharp'}
+2021-02-14 11:21:28.548 | INFO     | main:search_user:177 - main.py: {'_id': 'dave03', 'email': 'sharp@aol.com', 'user_name': 'Dave', 'user_last_name': 'Sharp'}
+2021-02-14 11:21:28.548 | INFO     | __main__:search_user:71 - menu.py: dave03
+2021-02-14 11:21:36.876 | INFO     | users:search_user:92 - gary34 was found.
+2021-02-14 11:21:36.876 | INFO     | users:search_user:93 - users.py: {'_id': 'gary34', 'email': 'papa@aol.com', 'user_name': 'Gary', 'user_last_name': 'Dick'}
+2021-02-14 11:21:36.877 | INFO     | main:search_user:177 - main.py: {'_id': 'gary34', 'email': 'papa@aol.com', 'user_name': 'Gary', 'user_last_name': 'Dick'}
+2021-02-14 11:21:36.877 | INFO     | __main__:search_user:71 - menu.py: gary34
+2021-02-14 11:22:52.780 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 11:22:52.781 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 11:22:52.781 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 11:22:52.782 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 11:22:52.782 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 11:22:52.783 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 11:22:52.783 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 11:22:52.783 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 11:23:01.027 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 11:23:01.027 | INFO     | users:search_user:93 - users.py: None
+2021-02-14 11:23:01.027 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 11:42:25.464 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:42:25.465 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:42:25.465 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:43:40.511 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:43:40.511 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:43:40.511 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:44:03.846 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:44:03.847 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:44:03.847 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:44:21.159 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: george99		
+2021-02-14 11:44:21.159 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: keri42
+2021-02-14 11:44:21.160 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: tutu46
+2021-02-14 11:44:21.161 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: spooky88
+2021-02-14 11:44:21.162 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: evmiles97
+2021-02-14 11:44:21.163 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: dave03
+2021-02-14 11:44:21.165 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: gary34
+2021-02-14 11:44:21.165 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 11:44:27.746 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 11:44:27.746 | INFO     | users:search_user:93 - users.py: None
+2021-02-14 11:44:27.746 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 11:45:54.788 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:45:54.789 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:45:54.789 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:46:10.155 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:46:10.156 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:46:10.156 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:46:27.200 | INFO     | users:search_user:92 - tutu46 was found.
+2021-02-14 11:46:27.200 | INFO     | users:search_user:93 - users.py: None
+2021-02-14 11:46:27.201 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 11:46:36.136 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:46:36.136 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:46:36.136 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:46:56.492 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: george99	
+2021-02-14 11:46:56.494 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: keri42
+2021-02-14 11:46:56.495 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: tutu46
+2021-02-14 11:46:56.496 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: spooky88
+2021-02-14 11:46:56.497 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: evmiles97
+2021-02-14 11:46:56.498 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: dave03
+2021-02-14 11:46:56.499 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: gary34
+2021-02-14 11:46:56.499 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 11:47:02.129 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 11:47:02.129 | INFO     | users:search_user:93 - users.py: None
+2021-02-14 11:47:02.129 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 11:47:07.453 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:47:07.453 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:47:07.454 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:47:23.249 | INFO     | users:search_user:92 - tutu46 was found.
+2021-02-14 11:47:23.249 | INFO     | users:search_user:93 - users.py: {'_id': 'tutu46', 'email': 'tj@gmail.com', 'user_name': 'Turtle', 'user_last_name': 'Shelle'}
+2021-02-14 11:47:23.249 | INFO     | main:search_user:177 - main.py: {'_id': 'tutu46', 'email': 'tj@gmail.com', 'user_name': 'Turtle', 'user_last_name': 'Shelle'}
+2021-02-14 11:47:23.249 | INFO     | __main__:search_user:71 - menu.py: tutu46
+2021-02-14 11:48:54.380 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:48:54.380 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:48:54.380 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:49:11.668 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 11:49:11.669 | INFO     | users:search_user:93 - users.py: None
+2021-02-14 11:49:11.669 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 11:49:26.088 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 11:49:26.088 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 11:49:26.088 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 11:49:42.815 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: george99
+2021-02-14 11:49:42.817 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: keri42
+2021-02-14 11:49:42.819 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: tutu46
+2021-02-14 11:49:42.821 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: spooky88
+2021-02-14 11:49:42.823 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: evmiles97
+2021-02-14 11:49:42.825 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: dave03
+2021-02-14 11:49:42.827 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: gary34
+2021-02-14 11:49:42.828 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 11:49:50.371 | INFO     | users:search_user:92 - george99 was found.
+2021-02-14 11:49:50.372 | INFO     | users:search_user:93 - users.py: {'_id': 'george99', 'email': 'gp@aol.com', 'user_name': 'George', 'user_last_name': 'Potts'}
+2021-02-14 11:49:50.372 | INFO     | main:search_user:177 - main.py: {'_id': 'george99', 'email': 'gp@aol.com', 'user_name': 'George', 'user_last_name': 'Potts'}
+2021-02-14 11:49:50.372 | INFO     | __main__:search_user:71 - menu.py: george99
+2021-02-14 11:55:00.242 | INFO     | users:search_user:92 - snowman was found.
+2021-02-14 11:55:00.242 | INFO     | users:search_user:93 - users.py: None
+2021-02-14 11:55:00.243 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 12:56:21.562 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 12:56:21.562 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 12:56:21.562 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 12:58:14.969 | INFO     | users:search_user:93 - tutu46 was found.
+2021-02-14 12:58:14.969 | INFO     | users:search_user:94 - users.py: {'_id': 'tutu46', 'email': 'tj@gmail.com', 'user_name': 'Turtle', 'user_last_name': 'Shelle'}
+2021-02-14 12:58:14.971 | INFO     | main:search_user:177 - main.py: {'_id': 'tutu46', 'email': 'tj@gmail.com', 'user_name': 'Turtle', 'user_last_name': 'Shelle'}
+2021-02-14 12:58:14.971 | INFO     | __main__:search_user:71 - menu.py: tutu46
+2021-02-14 12:58:22.480 | WARNING  | users:search_user:97 - This user, wallace, does not exist
+2021-02-14 12:58:22.480 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 13:00:37.726 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 13:00:37.726 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 13:00:37.727 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 13:00:52.658 | WARNING  | users:search_user:97 - This user, wallace, does not exist
+2021-02-14 13:00:52.658 | INFO     | main:search_user:177 - main.py: None
+2021-02-14 13:01:09.493 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 13:01:09.493 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 13:01:09.493 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 13:01:28.818 | WARNING  | users:search_user:97 - This user, wally, does not exist
+2021-02-14 13:01:28.819 | INFO     | main:search_user:177 - main.py: False
+2021-02-14 13:01:56.008 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 13:01:56.008 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 13:01:56.008 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 13:02:10.562 | WARNING  | users:search_user:97 - This user, wally, does not exist
+2021-02-14 13:02:10.563 | INFO     | main:search_user:177 - main.py: False
+2021-02-14 13:02:29.640 | INFO     | users:delete_user:75 - wally was deleted from database.
+2021-02-14 13:02:55.082 | INFO     | users:modify_user:49 - wally was modified with dog@gmail.com, Wallace, Kauffman
+2021-02-14 13:06:33.560 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 13:06:33.560 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 13:06:33.560 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 13:08:50.292 | WARNING  | users:delete_user:70 - This user, wallace, does not exist
+2021-02-14 13:14:49.866 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 13:14:49.866 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 13:14:49.866 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 13:18:27.842 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: george99
+2021-02-14 13:18:27.843 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: keri42
+2021-02-14 13:18:27.844 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: tutu46
+2021-02-14 13:18:27.846 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: spooky88
+2021-02-14 13:18:27.847 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: evmiles97
+2021-02-14 13:18:27.848 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: dave03
+2021-02-14 13:18:27.849 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: gary34
+2021-02-14 13:18:27.849 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 13:18:53.252 | WARNING  | users:add_user:31 - This user already exists.
+2021-02-14 13:20:04.659 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: fifi78
+2021-02-14 13:20:12.266 | INFO     | users:search_user:73 - fifi78 was found.
+2021-02-14 13:20:40.360 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 13:20:40.360 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 13:20:40.360 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 13:21:41.704 | INFO     | users:search_user:73 - fifi78 was found.
+2021-02-14 13:21:41.705 | INFO     | users:search_user:74 - users.py: {'_id': 'fifi78', 'email': 'firedragon@gmail.com', 'user_name': 'Fire', 'user_last_name': 'Dragon'}
+2021-02-14 13:21:41.705 | INFO     | main:search_user:177 - main.py: {'_id': 'fifi78', 'email': 'firedragon@gmail.com', 'user_name': 'Fire', 'user_last_name': 'Dragon'}
+2021-02-14 13:21:46.802 | WARNING  | users:search_user:77 - This user, wally, does not exist
+2021-02-14 13:21:46.802 | INFO     | main:search_user:177 - main.py: False
+2021-02-14 13:23:41.533 | INFO     | users:modify_user:46 - tutu46 was modified with holler@gmail.com, Twinkle , Melody
+2021-02-14 13:23:49.296 | INFO     | users:search_user:73 - tutu46 was found.
+2021-02-14 13:23:49.297 | INFO     | users:search_user:74 - users.py: {'_id': 'tutu46', 'email': 'holler@gmail.com', 'user_name': 'Twinkle ', 'user_last_name': 'Melody'}
+2021-02-14 13:23:49.297 | INFO     | main:search_user:177 - main.py: {'_id': 'tutu46', 'email': 'holler@gmail.com', 'user_name': 'Twinkle ', 'user_last_name': 'Melody'}
+2021-02-14 13:24:33.294 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 13:24:33.294 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 13:24:33.294 | INFO     | user_status:__init__:18 - New UserStatusCollection object was initialized.
+2021-02-14 13:25:56.590 | INFO     | users:delete_user:61 - tutu46 was deleted from database.
+2021-02-14 13:26:03.851 | WARNING  | users:search_user:77 - This user, tutu46, does not exist
+2021-02-14 13:26:03.851 | INFO     | main:search_user:177 - main.py: False
+2021-02-14 14:43:39.180 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 14:43:39.180 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 14:43:39.180 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 14:45:40.032 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 14:45:40.032 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 14:45:40.032 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 14:47:03.562 | WARNING  | user_status:add_status:20 - This user, tutu46, does not exist
+2021-02-14 14:47:14.002 | WARNING  | users:search_user:77 - This user, tutu46, does not exist
+2021-02-14 14:47:14.003 | INFO     | main:search_user:177 - main.py: False
+2021-02-14 14:47:24.914 | WARNING  | users:search_user:77 - This user, george99, does not exist
+2021-02-14 14:47:24.915 | INFO     | main:search_user:177 - main.py: False
+2021-02-14 14:47:30.748 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: george99
+2021-02-14 14:47:30.749 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: keri42
+2021-02-14 14:47:30.749 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: tutu46
+2021-02-14 14:47:30.750 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: spooky88
+2021-02-14 14:47:30.750 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: evmiles97
+2021-02-14 14:47:30.751 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: dave03
+2021-02-14 14:47:30.751 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: gary34
+2021-02-14 14:47:30.751 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 14:47:52.475 | WARNING  | user_status:add_status:20 - This user, george99, does not exist
+2021-02-14 14:47:59.184 | INFO     | users:search_user:73 - george99 was found.
+2021-02-14 14:47:59.184 | INFO     | users:search_user:74 - users.py: {'_id': 'george99', 'email': 'gp@aol.com', 'user_name': 'George', 'user_last_name': 'Potts'}
+2021-02-14 14:47:59.184 | INFO     | main:search_user:177 - main.py: {'_id': 'george99', 'email': 'gp@aol.com', 'user_name': 'George', 'user_last_name': 'Potts'}
+2021-02-14 14:48:49.893 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 14:48:49.893 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 14:48:49.893 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 14:51:36.524 | INFO     | user_status:add_status:18 - george99 was found.
+2021-02-14 14:51:36.570 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: hello_0009
+2021-02-14 14:56:25.108 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 14:56:25.108 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 14:56:25.108 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 14:56:44.346 | WARNING  | user_status:search_status:74 - This status_id, george99, does not exist
+2021-02-14 14:57:30.789 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 14:57:30.789 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 14:57:30.789 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 14:57:47.533 | WARNING  | user_status:search_status:74 - This status_id, george99, does not exist
+2021-02-14 14:58:12.163 | INFO     | user_status:search_status:70 - hello_0009 was found.
+2021-02-14 14:58:12.164 | INFO     | user_status:search_status:71 - users_status.py: {'_id': 'hello_0009', 'user_id': 'george99', 'status_text': 'no the leak!'}
+2021-02-14 14:59:09.492 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 14:59:09.493 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 14:59:09.493 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 14:59:24.479 | INFO     | user_status:search_status:70 - hello_0009 was found.
+2021-02-14 14:59:24.480 | INFO     | user_status:search_status:71 - users_status.py: {'_id': 'hello_0009', 'user_id': 'george99', 'status_text': 'no the leak!'}
+2021-02-14 15:17:10.313 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 15:17:10.313 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 15:17:10.313 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 15:17:49.231 | INFO     | user_status:search_status:65 - hello_0009 was found.
+2021-02-14 15:17:49.231 | INFO     | user_status:search_status:66 - users_status.py: {'_id': 'hello_0009', 'user_id': 'george99', 'status_text': 'no the leak!'}
+2021-02-14 15:18:07.928 | INFO     | user_status:modify_status:41 - hello_0009 was modified with george99, The leak is still here!
+2021-02-14 15:18:12.773 | INFO     | user_status:search_status:65 - hello_0009 was found.
+2021-02-14 15:18:12.773 | INFO     | user_status:search_status:66 - users_status.py: {'_id': 'hello_0009', 'user_id': 'george99', 'status_text': 'The leak is still here!'}
+2021-02-14 15:18:21.447 | INFO     | user_status:delete_status:56 - hello_0009 was deleted from database.
+2021-02-14 15:18:25.067 | WARNING  | user_status:search_status:69 - This status_id, hello_0009, does not exist
+2021-02-14 15:25:12.814 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 15:25:12.814 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 15:25:12.814 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 15:26:01.648 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 15:26:01.648 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 15:26:01.648 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 15:27:35.499 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 15:27:35.499 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 15:27:35.499 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 15:28:27.100 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 15:28:27.100 | INFO     | main:init_user_collection:18 - new UserCollection object initialized.
+2021-02-14 15:28:27.100 | INFO     | user_status:__init__:12 - New UserStatusCollection object was initialized.
+2021-02-14 15:28:44.939 | INFO     | user_status:add_status:18 - evmiles97 was found.
+2021-02-14 15:28:44.941 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: evmiles97_00001
+2021-02-14 15:28:44.943 | WARNING  | user_status:add_status:20 - This user, dave, does not exist
+2021-02-14 15:28:44.945 | INFO     | user_status:add_status:18 - evmiles97 was found.
+2021-02-14 15:28:44.948 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: evmiles97_00002
+2021-02-14 15:28:44.950 | INFO     | user_status:add_status:18 - tutu46 was found.
+2021-02-14 15:28:44.952 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: tutu46_00001
+2021-02-14 15:28:44.954 | INFO     | user_status:add_status:18 - spooky88 was found.
+2021-02-14 15:28:44.956 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: spooky88_0001
+2021-02-14 15:28:44.958 | INFO     | user_status:add_status:18 - tutu46 was found.
+2021-02-14 15:28:44.960 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: tutu46_00002
+2021-02-14 15:28:44.963 | INFO     | user_status:add_status:18 - tutu46 was found.
+2021-02-14 15:28:44.965 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: tutu46_00003
+2021-02-14 15:28:44.967 | INFO     | user_status:add_status:18 - keri42 was found.
+2021-02-14 15:28:44.969 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: keri42_00001
+2021-02-14 15:32:25.144 | INFO     | user_status:search_status:65 - keri42_00001 was found.
+2021-02-14 15:32:25.144 | INFO     | user_status:search_status:66 - users_status.py: {'_id': 'keri42_00001', 'user_id': 'keri42', 'status_text': 'Reading a book'}
+2021-02-14 15:32:59.716 | WARNING  | user_status:delete_status:53 - This status, goat, does not exist
+2021-02-14 15:33:06.622 | WARNING  | user_status:search_status:69 - This status_id, frog, does not exist
+2021-02-14 15:33:37.036 | WARNING  | user_status:add_status:20 - This user, goat, does not exist
+2021-02-14 15:33:58.860 | INFO     | user_status:add_status:18 - spooky88 was found.
+2021-02-14 15:33:58.861 | INFO     | user_status:add_status:26 - Added a new status to StatusCollection database with status_id: goat
+2021-02-14 15:34:04.380 | INFO     | user_status:search_status:65 - goat was found.
+2021-02-14 15:34:04.380 | INFO     | user_status:search_status:66 - users_status.py: {'_id': 'goat', 'user_id': 'spooky88', 'status_text': 'get the boo out of here'}
+2021-02-14 16:20:01.929 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 16:20:01.930 | INFO     | main:init_user_collection:19 - new UserCollection object initialized.
+2021-02-14 16:20:01.930 | INFO     | user_status:__init__:14 - New UserStatusCollection object was initialized.
+2021-02-14 16:20:20.032 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: george99
+2021-02-14 16:20:20.033 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: keri42
+2021-02-14 16:20:20.034 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: tutu46
+2021-02-14 16:20:20.035 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: spooky88
+2021-02-14 16:20:20.036 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: evmiles97
+2021-02-14 16:20:20.037 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: dave03
+2021-02-14 16:20:20.038 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: gary34
+2021-02-14 16:20:20.038 | INFO     | __main__:load_users:24 - Loaded the file.
+2021-02-14 16:20:42.232 | INFO     | user_status:add_status:23 - evmiles97 was found.
+2021-02-14 16:20:42.247 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: evmiles97_00001
+2021-02-14 16:20:42.248 | WARNING  | user_status:add_status:25 - This user, dave, does not exist
+2021-02-14 16:20:42.249 | INFO     | user_status:add_status:23 - evmiles97 was found.
+2021-02-14 16:20:42.249 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: evmiles97_00002
+2021-02-14 16:20:42.250 | INFO     | user_status:add_status:23 - tutu46 was found.
+2021-02-14 16:20:42.250 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: tutu46_00001
+2021-02-14 16:20:42.251 | INFO     | user_status:add_status:23 - spooky88 was found.
+2021-02-14 16:20:42.251 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: spooky88_0001
+2021-02-14 16:20:42.252 | INFO     | user_status:add_status:23 - tutu46 was found.
+2021-02-14 16:20:42.252 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: tutu46_00002
+2021-02-14 16:20:42.253 | INFO     | user_status:add_status:23 - tutu46 was found.
+2021-02-14 16:20:42.253 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: tutu46_00003
+2021-02-14 16:20:42.253 | INFO     | user_status:add_status:23 - keri42 was found.
+2021-02-14 16:20:42.254 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: keri42_00001
+2021-02-14 16:22:04.603 | INFO     | users:add_user:28 - Added a new user to UserCollection database with user_id: Kell789
+2021-02-14 16:22:37.659 | INFO     | users:search_user:73 - Kell789 was found.
+2021-02-14 16:22:37.659 | INFO     | users:search_user:74 - users.py: {'_id': 'Kell789', 'email': 'Kelly@stinky.com', 'user_name': 'Smellmaster9000', 'user_last_name': 'Kauffman'}
+2021-02-14 16:22:37.659 | INFO     | main:search_user:148 - main.py: {'_id': 'Kell789', 'email': 'Kelly@stinky.com', 'user_name': 'Smellmaster9000', 'user_last_name': 'Kauffman'}
+2021-02-14 16:23:12.716 | INFO     | users:modify_user:46 - Kell789 was modified with Kelly@scentsy.com, SmellsLikeCandles, Kauffman
+2021-02-14 16:23:25.798 | WARNING  | users:search_user:77 - This user, Kell789\, does not exist
+2021-02-14 16:23:25.798 | INFO     | main:search_user:148 - main.py: False
+2021-02-14 16:23:32.176 | INFO     | users:search_user:73 - Kell789 was found.
+2021-02-14 16:23:32.177 | INFO     | users:search_user:74 - users.py: {'_id': 'Kell789', 'email': 'Kelly@scentsy.com', 'user_name': 'SmellsLikeCandles', 'user_last_name': 'Kauffman'}
+2021-02-14 16:23:32.177 | INFO     | main:search_user:148 - main.py: {'_id': 'Kell789', 'email': 'Kelly@scentsy.com', 'user_name': 'SmellsLikeCandles', 'user_last_name': 'Kauffman'}
+2021-02-14 16:23:38.920 | INFO     | users:delete_user:61 - Kell789 was deleted from database.
+2021-02-14 16:23:45.808 | WARNING  | users:search_user:77 - This user, Kell789, does not exist
+2021-02-14 16:23:45.809 | INFO     | main:search_user:148 - main.py: False
+2021-02-14 16:25:25.524 | WARNING  | user_status:add_status:25 - This user, dave, does not exist
+2021-02-14 16:26:38.929 | INFO     | user_status:add_status:23 - dave03 was found.
+2021-02-14 16:26:38.930 | INFO     | user_status:add_status:31 - Added a new status to StatusCollection database with status_id: poop_0009
+2021-02-14 16:26:57.516 | WARNING  | user_status:search_status:79 - This status_id, dave03_00001, does not exist
+2021-02-14 16:28:13.914 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 16:28:13.914 | INFO     | main:init_user_collection:19 - new UserCollection object initialized.
+2021-02-14 16:28:13.914 | INFO     | user_status:__init__:14 - New UserStatusCollection object was initialized.
+2021-02-14 16:28:51.365 | INFO     | user_status:modify_status:49 - tutu46_00002 was modified with tutu46, Title
+2021-02-14 16:28:59.677 | INFO     | user_status:search_status:75 - tutu46_00002 was found.
+2021-02-14 16:28:59.678 | INFO     | user_status:search_status:76 - users_status.py: {'_id': 'tutu46_00002', 'user_id': 'tutu46', 'status_text': 'Title'}
+2021-02-14 16:29:03.652 | INFO     | user_status:delete_status:64 - tutu46_00002 was deleted from database.
+2021-02-14 16:29:07.059 | WARNING  | user_status:search_status:79 - This status_id, tutu46_00002, does not exist
+2021-02-14 20:01:37.640 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 20:01:37.640 | INFO     | main:init_user_collection:19 - new UserCollection object initialized.
+2021-02-14 20:01:37.640 | INFO     | user_status:__init__:14 - New UserStatusCollection object was initialized.
+2021-02-14 20:01:53.746 | INFO     | users:search_user:73 - tutu46 was found.
+2021-02-14 20:01:53.747 | INFO     | users:search_user:74 - users.py: {'_id': 'tutu46', 'email': 'tj@gmail.com', 'user_name': 'Turtle', 'user_last_name': 'Shelle'}
+2021-02-14 20:01:53.747 | INFO     | main:search_user:148 - main.py: {'_id': 'tutu46', 'email': 'tj@gmail.com', 'user_name': 'Turtle', 'user_last_name': 'Shelle'}
+2021-02-14 20:01:59.941 | INFO     | users:delete_user:61 - tutu46 was deleted from database.
+2021-02-14 20:02:37.013 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 20:02:37.013 | INFO     | main:init_user_collection:19 - new UserCollection object initialized.
+2021-02-14 20:02:37.013 | INFO     | user_status:__init__:14 - New UserStatusCollection object was initialized.
+2021-02-14 20:02:53.540 | WARNING  | users:delete_user:58 - This user, tutu46, does not exist
+2021-02-14 20:02:53.554 | INFO     | user_status:delete_status:64 - tutu46_00001 was deleted from database.
+2021-02-14 20:02:53.557 | INFO     | user_status:delete_status:64 - tutu46_00003 was deleted from database.
+2021-02-14 20:03:36.243 | WARNING  | user_status:search_status:79 - This status_id, tutu46_00002, does not exist
+2021-02-14 20:03:49.539 | WARNING  | user_status:search_status:79 - This status_id, tutu46_00001, does not exist
+2021-02-14 20:04:05.582 | WARNING  | user_status:search_status:79 - This status_id, tutu46_00003, does not exist
+2021-02-14 20:05:11.725 | INFO     | user_status:search_status:75 - evmiles97_00001 was found.
+2021-02-14 20:05:11.725 | INFO     | user_status:search_status:76 - users_status.py: {'_id': 'evmiles97_00001', 'user_id': 'evmiles97', 'status_text': 'Code is finally compiling'}
+2021-02-14 20:05:34.256 | INFO     | users:__init__:18 - New UserCollection object was initialized.
+2021-02-14 20:05:34.256 | INFO     | main:init_user_collection:19 - new UserCollection object initialized.
+2021-02-14 20:05:34.256 | INFO     | user_status:__init__:14 - New UserStatusCollection object was initialized.
+2021-02-14 20:05:57.028 | INFO     | users:delete_user:61 - evmiles97 was deleted from database.
+2021-02-14 20:05:57.032 | INFO     | user_status:delete_status:64 - evmiles97_00001 was deleted from database.
+2021-02-14 20:05:57.034 | INFO     | user_status:delete_status:64 - evmiles97_00002 was deleted from database.
+2021-02-14 20:06:12.519 | WARNING  | user_status:search_status:79 - This status_id, evmiles97_00001, does not exist
